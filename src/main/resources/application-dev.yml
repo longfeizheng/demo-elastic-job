@@ -2,4 +2,4 @@ elastic:
   job:
     zk:
       serverLists: 10.13.145.40:2181
-      namespace: test_job2
+      namespace: xxxx

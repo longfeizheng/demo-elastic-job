@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 @EnableElasticJob
-@ComponentScan(basePackages = {"com.cxytiandi"})
+//@ComponentScan(basePackages = {"com.cxytiandi"})
 public class DemoApplication {
 
     public static void main(String[] args) {
