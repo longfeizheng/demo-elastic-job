@@ -1,5 +1,7 @@
 elastic:
   job:
     zk:
-      serverLists: 10.13.145.40:2181
-      namespace: xxxx
+      serverLists: 172.25.66.137:2181
+      namespace: test_1
+server:
+  port: 8081
